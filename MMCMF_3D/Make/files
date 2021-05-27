@@ -1,0 +1,10 @@
+
+adjointOutletPressureHeat/adjointOutletPressureHeatFvPatchScalarField.C
+adjointOutletVelocityHeat/adjointOutletVelocityHeatFvPatchVectorField.C
+
+adjointOutletPressurePower/adjointOutletPressurePowerFvPatchScalarField.C
+adjointOutletVelocityPower/adjointOutletVelocityPowerFvPatchVectorField.C
+tractionDisplacement/tractionDisplacementFvPatchVectorField.C
+
+MMC_MF.C
+EXE = $(FOAM_USER_APPBIN)/MMC_MF
